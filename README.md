@@ -1,5 +1,9 @@
 # myjd script
 
+```
+ql repo https://github.com/bejiba/myjd.git "jd_|jx_" "backUp|icon" "^jd[^_]|USER|function|sendNotify|jdCookie|sign_graphics_validate|JDJR|JDSign|ql"
+
+```
 # 以下内容均从网络上收集，仅限于个人学习使用
 
 
